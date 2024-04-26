@@ -4,5 +4,6 @@
     "the_file_version": 1,
     "the_file_unpacked": "azx-diag-tool-update-repository-master",
     "the_file_delete_file_0": "1.txt",
-    "the_file_execute": "azx-diag-tool-update-execute.exe"
+    "the_file_execute": "azx-diag-tool-update-execute.exe",
+    "the_file_order": "main.exe"
 }
